@@ -1,7 +1,4 @@
 ### 🥰 JUNYOUNG LEE
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 - 서울시립대학교 주전공 철학과(2018~) / 복수전공 컴퓨터과학부(2019~)
 - 서울시립대학교 국제도시 및 인프라연구센터 학부연구생 (2020~2022)
